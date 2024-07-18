@@ -41,6 +41,11 @@ Sementara itu, pengembangan yang dilakukan pada kegiatan ini adalah peta ini men
         <td style="vertical-align: top" width="36">5.</td>
         <td style="text-align: justify">Peta online ini TIDAK bersifat membandingkan antar provinsi, tetapi menyajikan persentase hasil UKBI dimasing-masing provinsi menggunakan variabel visual berupa value (nilai) yang digambarkan dengan nilai kecerahan warna tertentu. Provinsi dengan warna paling gelap (persentase tinggi) tidak berarti provinsi itu paling baik dibandingkan dengan provinsi yang lain.</td>
       </tr>
+      <tr>
+        <td style="vertical-align: top" width="36">6.</td>
+        <td style="text-align: justify">Keterbatasan fitur pada perangkat lunak Carto untuk memvisualisasikan banyak data sekaligus membuat keseluruhan predikat UKBI tidak dapat ditampilkan dalam satu peta. Oleh karena itu, diperlukan perangkat lain untuk membuat visualisasi keseluruhan predikat UKBI dalam satu peta yakni QGIS. Hasil dari visualisasi keseluruhan predikat UKBI dapat diakses melalui laman <a href="https://s.id/PetaKemahiranBerbahasaIndonesia ">https://s.id/PetaKemahiranBerbahasaIndonesia </a> 
+</td>
+      </tr>
     </table>
     `,
   });
