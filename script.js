@@ -28,7 +28,7 @@ Data Indeks Alibaca didapatkan dari Kementerian Pendidikan Dan Kebudayaan tahun 
       <tr>
         <td style="vertical-align: top" width="36">3.</td>
         <td style="text-align: justify">Tingkat Penyelesaian Pendidikan merupakan informasi mengenai tingkat pencapaian pendidikan di berbagai jenjang dari SD, SMP, hingga SMA.
-Peta online ini menggunakan data tingkat penyelesaian pendidikan hingga jenjang SMA tahun 2019 yang bersumber dari BPS (Badan Pusat Statistik) 
+Peta online ini menggunakan data tingkat penyelesaian pendidikan hingga jenjang SMA tahun 2019 yang bersumber dari BPS (Badan Pusat Statistik). 
 </td>
       </tr>
       <tr>
