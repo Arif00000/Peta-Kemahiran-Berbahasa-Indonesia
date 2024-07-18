@@ -33,7 +33,9 @@ Peta online ini menggunakan data tingkat penyelesaian pendidikan hingga jenjang 
       </tr>
       <tr>
         <td style="vertical-align: top" width="36">4.</td>
-        <td style="text-align: justify">Pengembangan yang dilakukan dari peta hasil UKBI yang telah ada dibandingkan dengan Peta Online Interaktif Kemahiran Berbahasa Indonesia ini adalah peta online ini menggunakan tiga variabel visual value (nilai) yakni warna, bentuk, dan ukuran untuk memvisualisasikan data. Selain itu, interaktivitas peta jauh lebih ditingkatkan menggunakan pendekatan customizable mapping experience yang memungkinkan pengguna melakukan berbagai kustomisasi pada peta dengan cara klik dan mengarahkan kursor diatas peta.</td>
+        <td style="text-align: justify">Peta yang telah tersedia dalam laman UKBI berbentuk administrasi Indonesia dengan simbologi balon di tiap provinsi. Apabila balon di klik maka muncul data dalam bentuk daftar.
+Sementara itu, pengembangan yang dilakukan pada kegiatan ini adalah peta ini menggunakan variabel visual value (nilai) yang digambarkan dengan nilai kecerahan warna tertentu. Selain itu, interaktivitas peta jauh lebih ditingkatkan menggunakan pendekatan customizable mapping experience yang memungkinkan pengguna melakukan berbagai kustomisasi pada peta dengan cara klik dan mengarahkan kursor diatas peta. 
+</td>
       </tr>
       <tr>
         <td style="vertical-align: top" width="36">5.</td>
